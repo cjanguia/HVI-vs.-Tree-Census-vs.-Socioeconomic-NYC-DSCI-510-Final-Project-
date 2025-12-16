@@ -1,0 +1,10 @@
+requests
+pandas
+io
+random
+time
+json
+csv
+pathlib
+matplotlib.pyplot
+seaborn
